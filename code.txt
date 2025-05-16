@@ -1,1 +1,2 @@
 This is the code file for new feature.
+This is first line of the code.
